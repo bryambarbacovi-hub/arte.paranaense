@@ -1,15 +1,23 @@
 body{
     background-color: rgb(248, 211, 1);
-    color:teal
+    color:teal;
+font-family  Arial,sans-serif;
 }
 header{
     background-color: #08098A;
     color:#AEB9BF;
+    text-align: center;
+    padding:30px;
 }
-main{
-    background-color: darkblue;
+h1 { 
+   font-size: 36px;
 }
-footer{
-    background-color: #084880;
-    color:#B7CBCC;
+
+h2 {
+    color:darkslateblue;
+}
+
+p {
+    font-size: 18px;
+line-height:1.6;
 }
