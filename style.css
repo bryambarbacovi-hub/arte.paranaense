@@ -1,23 +1,44 @@
-body{
-    background-color:#08098A(248, 211, 1);
-    color:teal;
-font-family  Arial,sans-serif;
+body {
+    background-color: #08098A(248, 211, 1);
+    color: teal;
+    font-family: Arial, sans-serif;
 }
-header{
+
+header {
     background-color: #08098A;
-    color:#341352;
+    color: #341352;
     text-align: center;
-    padding:30px;
+    padding: 30px;
 }
-h1 { 
-   font-size: 36px;
+
+h1 {
+    font-size: 36px;
 }
 
 h2 {
-    color:darkslateblue;
+    color: darkslateblue;
 }
 
 p {
     font-size: 18px;
-line-height:1.6;
+    line-height: 1.6;
+}
+
+main {
+    width: 80%;
+    margin: auto;
+}
+
+section {
+    background-color: #341352;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+figcaption {
+    text-align: center;
+    font-size: 14px;
+    color: cadetblue;
+    margin-top: 8px;
 }
