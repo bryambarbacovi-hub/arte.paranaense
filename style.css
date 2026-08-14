@@ -6,8 +6,8 @@ body {
 }
 
 header {
-    background-color: #8a081e;
-    color: #341352;
+    background-color: #f3f1f1;
+    color: #e72d0c;
     text-align: center;
     padding: 30px;
 }
@@ -75,7 +75,7 @@ figcaption {
 }
 
 footer {
-    background-color: steelblue;
+    background-color: rgb(182, 198, 211);
     color: lightslategray;
     text-align: center;
     padding: 20px;
