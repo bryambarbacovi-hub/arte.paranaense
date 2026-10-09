@@ -1,5 +1,6 @@
-/*:root {
-    --cor-fundo:
+:root {
+   
+        --cor-fundo:darkblue; 
         --cor-texto: ;
         --cor-principal: ;
         --cor-secundaria: ;
@@ -10,10 +11,10 @@
         --cor-clara: ;
         --cor-rodape: ;
 }
-*/
+ 
 
 body {
-    background-color: #08098A;
+    background-color:darkblue;
     color: teal;
     font-family: Arial, sans-serif;
     margin: 0;
@@ -31,7 +32,7 @@ h1 {
 }
 
 h2 {
-    color: darkslateblue;
+    color:black;
 }
 
 p {
