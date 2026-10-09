@@ -1,15 +1,15 @@
 :root {
    
         --cor-fundo:darkblue; 
-        --cor-texto: ;
-        --cor-principal: ;
-        --cor-secundaria: ;
-        --cor-hover: ;
-        --cor-supericie: ;
+        --cor-texto:black ;
+        --cor-principal:#341352;
+        --cor-secundaria:#f3f1f1 ;
+        --cor-hover: darkolivegreen ;
+        --cor-supericie:#341352 ;
         --cor-card: ;
-        --cor-legenda: ;
-        --cor-clara: ;
-        --cor-rodape: ;
+        --cor-legenda: cadetblue;
+        --cor-clara: #f3f1f1;
+        --cor-rodape: rgb ;
 }
  
 
